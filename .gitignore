@@ -1,0 +1,6 @@
+format_message/.vs
+x64/
+Debug/
+Release/
+format_message/format_message.vcxproj.user
+format_message/format_message.vcxproj.filters
