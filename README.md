@@ -4,7 +4,7 @@ Command line program to display Windows errors messages from error code (using W
 # usage
 * syntax :
 
-`format_message.exe CODE [LOCALE] [ADDITIONNAL_MODULES]`
+`format_message.exe CODE``
 
 * example with code 2 (ERROR_FILE_NOT_FOUND) :
 
